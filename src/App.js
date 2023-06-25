@@ -69,7 +69,7 @@ function App() {
     setXPlayer(!xPlayer);
   };
 
-  // @TODO: Gameover state
+  // Gameover reset state
 
   const resetBoard = () => {
     setGameOver(false);
